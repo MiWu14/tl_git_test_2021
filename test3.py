@@ -1,1 +1,0 @@
-print('Ich gebe nicht auf!')
